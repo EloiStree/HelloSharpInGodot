@@ -1,2 +1,4 @@
-# HelloSharpInGodot
-Learn the C# by having fun in Godot.
+# Hello C# In Godot
+
+> Learn the C# by having fun in Godot.
+
